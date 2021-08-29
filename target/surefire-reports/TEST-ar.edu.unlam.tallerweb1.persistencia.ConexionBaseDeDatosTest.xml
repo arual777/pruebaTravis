@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="ar.edu.unlam.tallerweb1.persistencia.ConexionBaseDeDatosTest" time="0.195" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="ar.edu.unlam.tallerweb1.persistencia.ConexionBaseDeDatosTest" time="0.198" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.11+9-LTS-194"/>
@@ -28,7 +28,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:/java/apache-maven-3.3.9-bin.tar/apache-maven-3.3.9-bin/apache-maven-3.3.9/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Casa\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Casa\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\app\Casa\product\11.2.0\client_10\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\TortoiseGit\bin;C:\Program Files\nodejs;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\dotnet;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-11.0.11\bin;C:\Program Files (x86)\Brackets\command;C:\java\apache-maven-3.3.9-bin.tar\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Users\Casa\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\Casa\AppData\Roaming\npm;C:\Program Files\Heroku\bin;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1\bin;C:\Program Files\JetBrains\PhpStorm 2021.1.1\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;C:\Users\Casa\.rvm\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Casa\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Casa\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\app\Casa\product\11.2.0\client_10\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\TortoiseGit\bin;C:\Program Files\nodejs;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\dotnet;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-11.0.11\bin;C:\Program Files (x86)\Brackets\command;C:\java\apache-maven-3.3.9-bin.tar\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\java\apache-maven-3.8.2\bin;C:\Users\Casa\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\Casa\AppData\Roaming\npm;C:\Program Files\Heroku\bin;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1\bin;C:\Program Files\JetBrains\PhpStorm 2021.1.1\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;C:\Users\Casa\.rvm\bin;."/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -63,6 +63,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ar.edu.unlam.tallerweb1.persistencia.ConexionBaseDeDatosTest" name="pruebaConexion" time="0.152"/>
-  <testcase classname="ar.edu.unlam.tallerweb1.persistencia.ConexionBaseDeDatosTest" name="crearUsuario" time="0.043"/>
+  <testcase classname="ar.edu.unlam.tallerweb1.persistencia.ConexionBaseDeDatosTest" name="pruebaConexion" time="0.159"/>
+  <testcase classname="ar.edu.unlam.tallerweb1.persistencia.ConexionBaseDeDatosTest" name="crearUsuario" time="0.039"/>
 </testsuite>
